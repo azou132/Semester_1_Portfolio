@@ -5,7 +5,7 @@ print ('Welcome to Anime Recommendations')
 print ('Answer questions to find out what anime you should watch')
 
 #Function
-#This function determines which anime is reccomnded based on what the person chooses
+#This function determines which anime is reccomended based on what the person chooses
 def watch_anime():
     ans = input('romance (r) or adventure (a)')
 
