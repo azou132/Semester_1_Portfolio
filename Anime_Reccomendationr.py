@@ -1,4 +1,4 @@
-#Name Generator
+#Anime Reccomendation
 
 #Init
 print ('Welcome to Anime Recommendations')
