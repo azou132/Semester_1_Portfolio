@@ -19,7 +19,8 @@
 **Key Features**: 
 - built in timer
 - ability to choose the number of questions
-- displays the total score at the end 
+- displays the total score at the end
+- the difficulty can be adjusted
 
 # Project 4: Pokemon_Evolution
 **Summary**: This program allows the users to play a pokemon game where they seek to evolve their pokemon
