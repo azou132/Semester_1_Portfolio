@@ -1,6 +1,3 @@
-#Amy Zou_P5_2/21
-#Random Image Generator
-
 #Init
 from PIL import Image
 import requests
