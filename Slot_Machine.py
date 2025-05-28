@@ -1,4 +1,3 @@
-#Amy Zou_P5_1/29/25
 #Slot Machine
 
 #Init
