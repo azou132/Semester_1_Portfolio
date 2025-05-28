@@ -36,7 +36,7 @@
 - keeps score of the # of wins, loses, and ties
 - the game can be played until the player chooses to quit
 
-# Project 6: Random_Image
+# Project 6: Random_Archon
 **Summary**: This program allows the user to find which archon in Genshin Impact to pull for next
 
 **Key Features**: 
@@ -49,3 +49,10 @@
 **Key Features**: 
 - the game has an intense storyline and every choice matters
 - the game can be played many times
+
+# Project 8: Slot_Machine
+**Summary**: This program allows the user play a slot machine game where they could win or lose it all
+
+**Key Features**: 
+- the game has odds that are hard to beat, with weights added to the symbols in the slot machine
+- the game doesn't allow the user to play if they don't have enough 'money'
