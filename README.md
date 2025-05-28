@@ -35,3 +35,12 @@
 **Key Features**: 
 - keeps score of the # of wins, loses, and ties
 - the game can be played until the player chooses to quit
+
+# Project 6: Random_Image
+**Summary**: This program allows the user to find which archon in Genshin Impact to pull for next
+
+**Key Features**: 
+- it randomizes which archon is displayed
+- each randomization is accompanied an image and slight description of the archon
+
+  
