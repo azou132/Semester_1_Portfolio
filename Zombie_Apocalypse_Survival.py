@@ -1,6 +1,4 @@
-#Amy Zou_P5_1/16/2025
-#Semester Final
-#Zombie Apocalyse Survival
+#Zombie Apocalypse Survival
 
 #Init
 health = 50
