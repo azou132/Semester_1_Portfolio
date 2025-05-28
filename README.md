@@ -43,4 +43,9 @@
 - it randomizes which archon is displayed
 - each randomization is accompanied an image and slight description of the archon
 
-  
+# Project 7: Zombie_Apocalyse_Survival
+**Summary**: This program allows the user to play a zombie apocalyse game where they try to save the world
+
+**Key Features**: 
+- the game has an intense storyline and every choice matters
+- the game can be played many times
