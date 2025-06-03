@@ -1,4 +1,4 @@
-#Random_Archon
+#Random Archon
 
 #Init
 from PIL import Image
